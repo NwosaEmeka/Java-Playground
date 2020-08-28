@@ -1,0 +1,5 @@
+4
+ACE
+KING
+QUEEN
+JACK
